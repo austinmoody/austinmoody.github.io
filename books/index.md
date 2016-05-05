@@ -11,9 +11,7 @@ title: Books
 
 ![Paris Review 214](/i/parisreview214.png)
 
-![The Fall](/i/thefall.jpg)
-
-![The Happiness Trap](/i/happinesstrap.jpg)
+![Innocents and Others](/i/innocentsandothers.jpg)
 
 ## Previous Reads
 
