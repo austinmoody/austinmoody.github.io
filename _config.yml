@@ -1,5 +1,5 @@
 # General Jekyll Config
-highlighter: pygments
+highlighter: rouge
 url: https://blog.notaustintexas.com
 lsi: false
 exclude: [CNAME, .gitignore, Gemfile, Gemfile.lock]
