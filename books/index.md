@@ -11,8 +11,6 @@ title: Books
 
 ![Paris Review 214](/i/parisreview214.png)
 
-![Innocents and Others](/i/innocentsandothers.jpg)
-
 ## Previous Reads
 
 * [2016](/Books/2016/)

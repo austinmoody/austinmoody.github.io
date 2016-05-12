@@ -6,7 +6,7 @@ title: 2016 Books
 # Books read in 2016
 
 * Goal for the year: 40
-* Books read so far: 14
+* Books read so far: 15
 
 ---
 
@@ -120,3 +120,11 @@ title: 2016 Books
 [Spain in our Hearts](http://www.nytimes.com/2016/04/03/books/review/spain-in-our-hearts-by-adam-hochschild.html?_r=0) by Adam Hochschild
 
 <small>Finished 05-May-2016</small>
+
+---
+
+![Innocents and Others](/i/innocentsandothers.jpg)
+
+[Innocents and Others](http://books.simonandschuster.com/Innocents-and-Others/Dana-Spiotta/9781501122729) by Dana Spiotta
+
+<small>Finished 12-May-2016</small>
