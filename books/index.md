@@ -5,6 +5,8 @@ title: Books
 
 ## Currently Reading
 
+![The Fan Man](/i/fanman.jpg)
+
 ![Fuck Feelings](/i/fuckfeelings.jpg)
 
 ![Pathway to Freedom](/i/pathwaytofreedom.jpg)
