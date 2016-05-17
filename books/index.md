@@ -5,7 +5,13 @@ title: Books
 
 ## Currently Reading
 
-![The Fan Man](/i/fanman.jpg)
+![A Confederacy of Dunces](/i/confederacyofdunces.jpg)
+
+![Just Kids](/i/justkids.jpg)
+
+![At The Existentialist Cafe](/i/existentialist.jpg)
+
+![The Prophet](/i/theprophet.jpg)
 
 ![Fuck Feelings](/i/fuckfeelings.jpg)
 

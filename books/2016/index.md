@@ -6,7 +6,7 @@ title: 2016 Books
 # Books read in 2016
 
 * Goal for the year: 40
-* Books read so far: 15
+* Books read so far: 16
 
 ---
 
@@ -128,3 +128,11 @@ title: 2016 Books
 [Innocents and Others](http://books.simonandschuster.com/Innocents-and-Others/Dana-Spiotta/9781501122729) by Dana Spiotta
 
 <small>Finished 12-May-2016</small>
+
+---
+
+![The Fan Man](/i/fanman.jpg)
+
+[The Fan Man](https://en.wikipedia.org/wiki/The_Fan_Man)
+
+<small>Finished 16-May-2016</small>
