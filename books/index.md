@@ -9,8 +9,6 @@ title: Books
 
 ![Just Kids](/i/justkids.jpg)
 
-![At The Existentialist Cafe](/i/existentialist.jpg)
-
 ![The Prophet](/i/theprophet.jpg)
 
 ![Fuck Feelings](/i/fuckfeelings.jpg)

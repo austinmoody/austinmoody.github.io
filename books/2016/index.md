@@ -6,7 +6,7 @@ title: 2016 Books
 # Books read in 2016
 
 * Goal for the year: 40
-* Books read so far: 16
+* Books read so far: 17
 
 ---
 
@@ -136,3 +136,11 @@ title: 2016 Books
 [The Fan Man](https://en.wikipedia.org/wiki/The_Fan_Man)
 
 <small>Finished 16-May-2016</small>
+
+---
+
+![At The Existentialist Cafe](/i/existentialist.jpg)
+
+[At The Existentialist Cafe]http://www.otherpress.com/books/at-the-existentialist-cafe/()
+
+<small>Finished 26-May-2016</small>
