@@ -141,6 +141,6 @@ title: 2016 Books
 
 ![At The Existentialist Cafe](/i/existentialist.jpg)
 
-[At The Existentialist Cafe]http://www.otherpress.com/books/at-the-existentialist-cafe/()
+[At The Existentialist Cafe](http://www.otherpress.com/books/at-the-existentialist-cafe/)
 
 <small>Finished 26-May-2016</small>
