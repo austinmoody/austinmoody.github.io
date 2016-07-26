@@ -6,7 +6,7 @@ title: 2016 Books
 # Books read in 2016
 
 * Goal for the year: 40
-* Books read so far: 18
+* Books read so far: 19
 
 ---
 
@@ -152,3 +152,11 @@ title: 2016 Books
 [Just Kids](https://en.wikipedia.org/wiki/Just_Kids)
 
 <small>Finished 01-June-2016</small>
+
+---
+
+![The Romanovs](/i/romanovs.jpg)
+
+[The Romanovs: 1613-1918](http://www.nytimes.com/2016/05/22/books/review/the-romanovs-1613-1918-by-simon-sebag-montefiore.html?_r=0)
+
+<small>Finished 25-July-2016</small>
