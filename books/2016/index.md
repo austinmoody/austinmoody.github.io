@@ -6,7 +6,7 @@ title: 2016 Books
 # Books read in 2016
 
 * Goal for the year: 40
-* Books read so far: 17
+* Books read so far: 18
 
 ---
 
@@ -144,3 +144,11 @@ title: 2016 Books
 [At The Existentialist Cafe](http://www.otherpress.com/books/at-the-existentialist-cafe/)
 
 <small>Finished 26-May-2016</small>
+
+---
+
+![Just Kids](/i/justkids.jpg)
+
+[Just Kids](https://en.wikipedia.org/wiki/Just_Kids)
+
+<small>Finished 01-June-2016</small>

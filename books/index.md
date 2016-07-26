@@ -7,8 +7,6 @@ title: Books
 
 ![A Confederacy of Dunces](/i/confederacyofdunces.jpg)
 
-![Just Kids](/i/justkids.jpg)
-
 ![The Prophet](/i/theprophet.jpg)
 
 ![Fuck Feelings](/i/fuckfeelings.jpg)
