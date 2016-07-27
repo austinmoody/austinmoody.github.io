@@ -6,7 +6,7 @@ title: 2016 Books
 # Books read in 2016
 
 * Goal for the year: 40
-* Books read so far: 19
+* Books read so far: 21
 
 ---
 
@@ -152,6 +152,20 @@ title: 2016 Books
 [Just Kids](https://en.wikipedia.org/wiki/Just_Kids)
 
 <small>Finished 01-June-2016</small>
+
+---
+
+![A Confederacy of Dunces](/i/confederacyofdunces.jpg)
+
+[A Confederacy of Dunces]()
+
+<small>Finished 13-June-2016</small>
+
+---
+
+![Pathway to Freedom](/i/pathwaytofreedom.jpg)
+
+[Pathway to Freedom](http://lucindagreenphd.com/audio-and-books/pathway-to-freedom-applying-the-teachings-of-the-buddha/)
 
 ---
 
