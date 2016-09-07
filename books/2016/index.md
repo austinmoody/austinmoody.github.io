@@ -6,7 +6,7 @@ title: 2016 Books
 # Books read in 2016
 
 * Goal for the year: 40
-* Books read so far: 21
+* Books read so far: 25
 
 ---
 
@@ -157,7 +157,7 @@ title: 2016 Books
 
 ![A Confederacy of Dunces](/i/confederacyofdunces.jpg)
 
-[A Confederacy of Dunces]()
+[A Confederacy of Dunces](https://en.wikipedia.org/wiki/A_Confederacy_of_Dunces)
 
 <small>Finished 13-June-2016</small>
 
@@ -169,8 +169,40 @@ title: 2016 Books
 
 ---
 
+![Sweetbitter](/i/sweetbitter.jpg)
+
+[Sweetbitter](http://www.nytimes.com/2016/05/29/books/review/sweetbitter-by-stephanie-danler.html?_r=0)
+
+<small>Finished 28-June-2016</small>
+
+---
+
 ![The Romanovs](/i/romanovs.jpg)
 
 [The Romanovs: 1613-1918](http://www.nytimes.com/2016/05/22/books/review/the-romanovs-1613-1918-by-simon-sebag-montefiore.html?_r=0)
 
 <small>Finished 25-July-2016</small>
+
+---
+
+![In Europe's Shadow](/i/in_europes_shadow.jpg)
+
+[In Europe's Shadow](http://www.nytimes.com/2016/02/07/books/review/in-europes-shadow-by-robert-d-kaplan.html)
+
+<small>Finished 1-August-2016</small>
+
+---
+
+![My Struggle - Book 5](/i/mystrugglebook5.jpg)
+
+[My Struggle - Book 5](https://en.wikipedia.org/wiki/My_Struggle_(Knausg%C3%A5rd_novels))
+
+<small>Finished 28-August-2016</small>
+
+---
+
+![The Bell jar](/i/thebelljar.jpg)
+
+[The Bell Jar](https://en.wikipedia.org/wiki/The_Bell_Jar)
+
+<small>Finished 3-September-2016</small>
