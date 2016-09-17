@@ -6,7 +6,7 @@ title: 2016 Books
 # Books read in 2016
 
 * Goal for the year: 40
-* Books read so far: 25
+* Books read so far: 28
 
 ---
 
@@ -206,3 +206,27 @@ title: 2016 Books
 [The Bell Jar](https://en.wikipedia.org/wiki/The_Bell_Jar)
 
 <small>Finished 3-September-2016</small>
+
+---
+
+![Notes from the Underground](/i/NotesFromUnderground.jpg)
+
+[Notes from the Underground](https://en.wikipedia.org/wiki/Notes_from_Underground)
+
+<small>Finished 10-September-2016</small>
+
+---
+
+![The Making of a Racist](/i/themakingofaracist.jpg)
+
+[The Making of a Racist](http://www.upress.virginia.edu/title/5016)
+
+<small>Finished 14-September-2016</small>
+
+---
+
+![The Vegetarian](/i/thevegetarian.jpg)
+
+[The Vegetarian](https://en.wikipedia.org/wiki/The_Vegetarian)
+
+<small>Finished 16-September-2016</small>
