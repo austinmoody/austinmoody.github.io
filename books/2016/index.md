@@ -6,7 +6,7 @@ title: 2016 Books
 # Books read in 2016
 
 * Goal for the year: 40
-* Books read so far: 28
+* Books read so far: 30
 
 ---
 
@@ -230,3 +230,19 @@ title: 2016 Books
 [The Vegetarian](https://en.wikipedia.org/wiki/The_Vegetarian)
 
 <small>Finished 16-September-2016</small>
+
+---
+
+![True Believer](/i/truebeliever.jpg)
+
+[True Believer](http://www.simonandschuster.com/books/True-Believer/Kati-Marton/9781476763767)
+   
+<small>Finished 26-September-2016</small>
+
+---
+
+![Razor Girl](/i/razorgirl.jpg)
+
+[Razor Girl](http://www.npr.org/2016/09/08/490101780/razor-girl-is-carl-hiaasen-doing-what-he-does-best)
+
+<small>Finished 6-October-2016</small>
