@@ -6,7 +6,7 @@ title: 2016 Books
 # Books read in 2016
 
 * Goal for the year: 40
-* Books read so far: 30
+* Books read so far: 31
 
 ---
 
@@ -246,3 +246,11 @@ title: 2016 Books
 [Razor Girl](http://www.npr.org/2016/09/08/490101780/razor-girl-is-carl-hiaasen-doing-what-he-does-best)
 
 <small>Finished 6-October-2016</small>
+
+---
+
+![Play Anything](/i/playanything.jpg)
+
+[Play Anything](http://bogost.com/books/play-anything/)
+
+<small>Finished 18-October-2016</small>
