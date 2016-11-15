@@ -6,7 +6,7 @@ title: 2016 Books
 # Books read in 2016
 
 * Goal for the year: 40
-* Books read so far: 31
+* Books read so far: 32
 
 ---
 
@@ -254,3 +254,11 @@ title: 2016 Books
 [Play Anything](http://bogost.com/books/play-anything/)
 
 <small>Finished 18-October-2016</small>
+
+---
+
+![Buddha](/i/buddha.jpg)
+
+[Buddha by Karen Armstrong](https://www.salon.com/2001/04/18/armstrong_3/)
+
+<small>Finished 07-November-2016</small>
