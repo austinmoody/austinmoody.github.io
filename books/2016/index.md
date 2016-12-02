@@ -6,7 +6,7 @@ title: 2016 Books
 # Books read in 2016
 
 * Goal for the year: 40
-* Books read so far: 32
+* Books read so far: 34
 
 ---
 
@@ -262,3 +262,19 @@ title: 2016 Books
 [Buddha by Karen Armstrong](https://www.salon.com/2001/04/18/armstrong_3/)
 
 <small>Finished 07-November-2016</small>
+
+---
+
+![The Secret Oral Teachings in Tibetan Buddhist Sects](/i/secretteachings.jpg)
+
+[The Secret Oral Teachings in Tibetan Buddhist Sects](https://www.amazon.com/Secret-Teachings-Tibetan-Buddhist-Sects/dp/0872860124) 
+
+<small>Finished 25-November-2016</small>
+
+---
+
+![Grief Is the Thing with Feathers](/i/grief.jpg)
+
+[Grief Is the Thing with Feathers](https://www.theguardian.com/books/2015/sep/18/grief-is-the-thing-with-feathers-by-max-porter-review-ted-hughes)
+
+<small>Finished 1-December-2016</small>
