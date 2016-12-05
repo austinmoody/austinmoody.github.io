@@ -6,7 +6,7 @@ title: 2016 Books
 # Books read in 2016
 
 * Goal for the year: 40
-* Books read so far: 34
+* Books read so far: 35
 
 ---
 
@@ -278,3 +278,11 @@ title: 2016 Books
 [Grief Is the Thing with Feathers](https://www.theguardian.com/books/2015/sep/18/grief-is-the-thing-with-feathers-by-max-porter-review-ted-hughes)
 
 <small>Finished 1-December-2016</small>
+
+---
+
+![Hannibal Rising](/i/hannibalrising.jpg)
+
+[Hannibal Rising](https://en.wikipedia.org/wiki/Hannibal_Rising)
+
+<small>Finished 4-December-2016</small>
