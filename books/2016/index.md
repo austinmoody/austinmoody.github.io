@@ -6,7 +6,7 @@ title: 2016 Books
 # Books read in 2016
 
 * Goal for the year: 40
-* Books read so far: 35
+* Books read so far: 37
 
 ---
 
@@ -286,3 +286,19 @@ title: 2016 Books
 [Hannibal Rising](https://en.wikipedia.org/wiki/Hannibal_Rising)
 
 <small>Finished 4-December-2016</small>
+
+---
+
+![Seven Brief Lessons On Physics](/i/physics.jpg)
+
+[Seven Brief Lessons On Physics](https://en.wikipedia.org/wiki/Seven_Brief_Lessons_on_Physics)
+
+<small>Finished 9-December-2016</small>
+
+---
+
+![The Wonder](/i/thewonder.jpg)
+
+[The Wonder](http://emmadonoghue.com/books/novels/the-wonder.html)
+
+<small>Finished 19-December-2016</small>
