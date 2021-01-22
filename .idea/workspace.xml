@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e98a78cf-7e2f-40ee-be04-00ccafe6f3c8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/austinmoody.github.io.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1nQU3MV0j5CmuQ6TsJF3NGAirgX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.externalTools" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="gem install bundler:1.11.2" />
+      <command value="bundle update kramdown" />
+      <command value="bundle update json" />
+      <command value="gem install concurrent-ruby -v '1.1.8'" />
+      <command value="gem install minitest -v '5.14.3'" />
+      <command value="gem install thread_safe -v '0.3.6'" />
+      <command value="gem install public_suffix -v '3.1.1'" />
+      <command value="gem install coffee-script-source -v '1.11.1'" />
+      <command value="gem install execjs -v '2.7.0'" />
+      <command value="gem install colorator -v '1.1.0'" />
+      <command value="gem install unf_ext -v '0.0.7.7'" />
+      <command value="gem install eventmachine -v '1.2.7'" />
+      <command value="gem install http_parser.rb -v '0.6.0'" />
+      <command value="gem install ffi -v '1.14.2'" />
+      <command value="gem install faraday-net_http -v '1.0.1'" />
+      <command value="gem install multipart-post -v '2.1.1'" />
+      <command value="gem install ruby2_keywords -v '0.0.4'" />
+      <command value="gem install forwardable-extended -v '2.6.0'" />
+      <command value="gem install gemoji -v '3.0.1'" />
+      <command value="bundle update" />
+    </option>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e98a78cf-7e2f-40ee-be04-00ccafe6f3c8" name="Default Changelist" comment="" />
+      <created>1611321608606</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611321608606</updated>
+      <workItem from="1611321610580" duration="2242000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
